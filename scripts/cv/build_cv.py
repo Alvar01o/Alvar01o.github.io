@@ -23,7 +23,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[2]
 NM = ROOT / "node_modules"
 OUT = ROOT / "public" / "cv"
 
-SITE_URL = "online-resume-inky.vercel.app"  # cámbialo si usas un dominio propio
+SITE_URL = "alvar01o.github.io"  # cámbialo si usas un dominio propio
 LINKEDIN = "linkedin.com/in/alvaro-mercado-6b387a10b"
 GITHUB = "github.com/Alvar01o"
 

@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-const site = 'https://online-resume-inky.vercel.app';
+const site = 'https://alvar01o.github.io';
 
 // Sitio 100% estático. Cambia `site` por tu dominio final (sitemap, canonical, OG).
 export default defineConfig({
